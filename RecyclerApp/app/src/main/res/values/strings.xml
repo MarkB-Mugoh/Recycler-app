@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecyclerApp</string>
+    <string name="productname">product name</string>
+    <string name="PriceofProduct">Price of Product</string>
+</resources>
